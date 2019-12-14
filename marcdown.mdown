@@ -1,0 +1,35 @@
+#The National Council on Disability (NCD) released a report documenting trends in academic achievement of students with disabilities, as a
+#result of the implementation of No Child Left Behind Act (NCLB) and the Individual with Disabilities Education Act (IDEA). The National 
+#Council on Disability is an independent federal agency making recommendations to the President and Congress to enhance the quality of life 
+#for all Americans with disabilities and their families. It is composed of 15 members appointed by the President and confirmed by the U.S. 
+#Senate.The study was conducted by the Educational Policy Institute and the American Youth Policy Forum under contract to NCD. The report is
+#based on the collection and analysis of NAEP and IDEA data regarding student academic achievement; interviews of state administrators and 
+#representatives about trends and issues related to NCLB and IDEA.
+
+##In general, recommendations from the report include:
+###Maintain high expectations for students with disabilities. Interviewees acknowledged that not every student with a disability can achieve to
+###high standards, but they recommended holding firm to high expectations, and keeping the pressure on the system to deliver higher-level 
+###instruction.
+#Develop the capacity of teachers to provide differentiated instruction and a more rigorous curriculum. In order for students to benefit from
+#a higher-level curriculum, teachers must have the content knowledge and pedagogical skills to work with a diverse group of learners, 
+#particularly students with disabilities.
+**Create incentives to attract, recruit, and retain special education teachers. As special education teachers retire and leave the profession,
+more attention needs to be paid to how to develop the profession and maintain adequate numbers of teachers with the skills and knowledge to
+work with students with disabilities.**
+~~Align NCLB and IDEA data~~ systems and definitions. NCLB and IDEA require data collection and reporting on various student outcomes and program
+characteristics.
+Ensure that students with disabilities are measured on more than just academic skills attainment. The definition of what is assessed for 
+students with disabilities should be broadened to include occupational, employability, and life skills.
+Increase funding for special education. Helping students with disabilities access a higher-level curriculum requires more support services, 
+potentially more learning time, better-trained teachers, collaborative teaching, and new instructional approaches.
+(https://catchenglish.ru/teksty/teksty-vyshe-srednej-slozhnosti/american-youth-3.html "это поможет")
+
+svinareva78@mail.ru
+
+![]https://i0.wp.com/worldscholarshipforum.com/wp-content/uploads/2019/01/usa.jpg?fit=1200%2C675&ssl=1
+
+1|2|3
+---|:---:---:
+yes|no|don't Know
+Don't know|no|yes
+no|don't know|no
